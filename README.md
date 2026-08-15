@@ -1,11 +1,9 @@
-# FICO-Bucket
+# FICO Score Bucketing
 
 A likelihood-based exercise for converting continuous FICO scores into five credit-risk categories.
 
 > 09/2024
 > JPMorgan Chase Forage Quantitative Research
-
-# FICO Score Bucketing
 
 ## Project overview
 
